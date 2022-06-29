@@ -1,6 +1,7 @@
 {
   "multiCommand.commands": [
     {
+      //全局保存修改的文件
       "command": "workbench.action.files.save",
       "sequence": ["workbench.action.files.saveAll"]
     }
